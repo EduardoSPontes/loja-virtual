@@ -15,8 +15,20 @@ Um supermercado online oferece conveniência aos clientes, permitindo que compre
 
 Ela desempenha um papel crucial na orientação dos visitantes e na apresentação dos produtos e serviços oferecidos pela plataforma.
 
+# Uma Página da Tela de Produto
 
 
+
+![](https://github.com/EduardoSPontes/loja-virtual/blob/master/minialtura/Tela%20de%20produtos.png)
+
+
+
+Entre essa páginas tem a de Carnes e Hortifruti,  oferecem uma experiência conveniente e eficiente para os consumidores, permitindo que eles comprem uma ampla variedade de produtos alimentícios e domésticos sem sair de casa. 
+
+
+# Autores 
+
+Desenvolvido por Gabriel Costa Domiciano e Eduardo Santos Pontes
 
 
 
